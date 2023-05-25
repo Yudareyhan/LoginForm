@@ -1,0 +1,35 @@
+.jumbotron {
+     text-align: center;
+     padding-top: 2rem;
+     background-color:lightblue;
+
+}
+
+.jumbotron h1 {
+    font-size: 1.5rem;
+}
+
+
+
+.form {
+    width:350px;
+    margin: 0 auto;
+    margin-top: 500px;
+    margin-bottom: 500px;
+
+}
+
+
+
+.col a {
+    padding-left: 35px;
+}
+
+.form-check label {
+    padding-right: 30px;
+}
+
+
+
+
+
